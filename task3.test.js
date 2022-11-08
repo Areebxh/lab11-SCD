@@ -14,10 +14,10 @@ test("test power" , () => {
 
 
 test("test power" , () => {
-    expect(task3.power(2,1)).toBe(4);   
+    expect(task3.power(2,1)).toBe(2);   
 });
 
 
 test("test power" , () => {
-    expect(task3.power(5,2)).toBe(4);   
+    expect(task3.power(5,2)).toBe(25);   
 });

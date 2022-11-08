@@ -20,9 +20,9 @@ test("Test Case 4", ()=>{
 });
 
 test("Test Case 5", ()=>{
-    expect(calculater.divide(6,2)).toBe(1)
+    expect(calculater.divide(6,2)).toBe(3)
 });
 
 test("Test Case 3", ()=>{
-    expect(calculater.subtract(2,2)).toBe(1)
+    expect(calculater.subtract(2,2)).toBe(0)
 });
